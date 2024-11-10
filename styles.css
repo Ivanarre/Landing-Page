@@ -196,4 +196,15 @@ body {
 
 /* FOOTER */
 
+footer {
+    background-color: #1F2937;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
 
+.footer-text {
+    color: #F9FAF8;
+    text-align: center;
+    margin: 0 auto;
+}
